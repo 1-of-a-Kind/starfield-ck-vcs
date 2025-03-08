@@ -2,6 +2,8 @@
 
 ## Current Status:
 CK loads without error, version control menus are enabled, but cannot open plugins (starfield.esm version conflict, delocalization warnings, failed attempt to "lock" starfield.esm via REST service.)
+![image](https://github.com/user-attachments/assets/e5283d89-49f6-406f-a988-c9cb997db551)
+
 
 ## Summary
 
