@@ -77,8 +77,6 @@ These two calls are but the tip of the iceberg that is the Asset Manager Service
 | [Perforce]   | sWorkspace | Papyrus     | Rec: "Starfield" |
 | [Perforce]   | sUsername |      | Should set this to match the created Perforce user |
 | [SpellCheck]   | sUserLexiconPerforcePath | //genesisdata/current/overrides/DeployOverrides/PC/lex/User/internal.tlx     | This file may be required for CK to launch with VCS enabled |
-| [Perforce]   | sParticlesRelativePath | ?     | (TODO) |
-| [Perforce]   | sParticlesRelativePath | ?     | (TODO) |
 
 
 ## Preliminary example INI settings
